@@ -10,6 +10,8 @@ scikit-learn==1.5.2
 rapidfuzz==3.9.7
 numpy==2.1.1
 pandas==2.2.3
+spacy==3.7.4
+sentence-transformers==3.0.1
 nltk==3.9.1
 tqdm==4.66.5
 psycopg2-binary==2.9.9
