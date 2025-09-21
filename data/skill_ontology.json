@@ -1,0 +1,10 @@
+{
+  "software_engineer": {
+    "must_have": ["python", "data structures", "algorithms", "git", "sql"],
+    "good_to_have": ["docker", "kubernetes", "aws", "rest api", "fastapi", "pytest"]
+  },
+  "data_scientist": {
+    "must_have": ["python", "pandas", "numpy", "machine learning", "statistics", "sql"],
+    "good_to_have": ["pytorch", "tensorflow", "mlflow", "feature engineering", "nlp"]
+  }
+}
