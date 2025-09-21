@@ -92,7 +92,7 @@ streamlit run frontend/streamlit_app.py
 
 - 🔗 **Web App**: [https://resume-checker.streamlit.app](https://resume-checker-techblaze.streamlit.app/)  
 - 🎥 **Video Walkthrough**: [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/YOUR_VIDEO_ID)  
-- 📁 **GitHub Repo**: [https://github.com/YOUR_USERNAME/resume-checker](https://github.com/SHIVANSH3SRIVASTAVA/resume-checker.git)
+- 📁 **GitHub Repo**: [https://github.com/SHIVANSH3SRIVASTAVA/resume-checker](https://github.com/SHIVANSH3SRIVASTAVA/resume-checker.git)
 
 ---
 
