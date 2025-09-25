@@ -3,7 +3,7 @@ import requests
 import mimetypes
 import matplotlib.pyplot as plt
 # Backend URL
-BACKEND = st.secrets.get("BACKEND_URL", "https://resume-checker-backend.hf.space")
+BACKEND = st.secrets.get("BACKEND_URL", "https://ae605454-f22b-4bf6-9b47-83e854618ccc-00-2hzu7b2t5e1c0.janeway.replit.dev")
 
 st.set_page_config(page_title="Innomatics Resume Checker", layout="wide")
 st.title("Automated Resume Relevance Check System")
